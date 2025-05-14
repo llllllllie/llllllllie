@@ -3,14 +3,30 @@
 저는 현재 개발 프로그래밍을 꾸준히 학습하고,
 프로젝트를 통해 기술을 익혀가고 있습니다.
 
-## 🧠 지금 배우고 있는 것들         ## 🔧 Tech Stack
-  - Python 🐍
-  - Java ☕                          | 언어 | 프레임워크 | 도구 |
-  - Git & GitHub 🐙                  |------|-------------|------|
-  - VS Code 설정 ⚙️                  | Python |    | Git |
-                                     | Java | Spring (기초) | GitHub |
-                                     | HTML/CSS |  | VS Code |                                          
-                                    
-                                                
+## 🧠 지금 배우고 있는 것들
+
+- Python 🐍
+- Java ☕
+- Git & GitHub 🐙
+- VS Code 설정 ⚙️
+
+
+## 📊 학습 진도 그래프
+
+- Python       : ███░░░░░░░ 20%
+- JavaScript   : ░░░░░░░░░░ 0%
+- Git          : █████░░░░░ 50%
+- Java         : ███░░░░░░░ 30%
+
+### 🎮 지금 배우고 있는 것들
+
+| 언어        | 프론트엔드     | 백엔드     | 협업 도구         | 개발 환경      |
+|-------------|----------------|------------|--------------------|----------------|
+| Python      | HTML           | Git        | GitHub             | VS Code        |
+| Java        | CSS            |            |                    | Linux (기초)   |
+| JavaScript  | JavaScript     |            |                    | Terminal 사용  |
                                                  
 
+## 📫 연락
+
+- 이메일: kimcoal08@gmai.com
