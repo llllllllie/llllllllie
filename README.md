@@ -30,7 +30,7 @@
                                                  
 
 ## 📫 연락
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimcoal08@gmai.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyuya.dev@gmail.com)
 
 
 
