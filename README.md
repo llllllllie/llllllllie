@@ -6,6 +6,6 @@
 ## 🔧 Tech Stack
 | 언어 | 프레임워크 | 도구 |
 |------|-------------|------|
-| Python | x  | Git |
+| Python |    | Git |
 | Java | Spring (기초) | GitHub |
 | HTML/CSS |  | VS Code |
