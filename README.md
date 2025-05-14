@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:f6d365,100:fd6585&height=200&text=My%20brain%20hurts.%20Thanks,%20code.&fontSize=40&fontAlignY=35)
+
 # 👋 안녕하세요, 저는 ░░░░░입니다
 
 저는 현재 개발 프로그래밍을 꾸준히 학습하고,
