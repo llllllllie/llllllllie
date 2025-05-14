@@ -4,9 +4,8 @@
 프로젝트를 통해 기술을 익혀가고 있습니다.
 
 ## 🔧 Tech Stack
-
 | 언어 | 프레임워크 | 도구 |
 |------|-------------|------|
-| Python | Django | Git |
+| Python | x  | Git |
 | Java | Spring (기초) | GitHub |
 | HTML/CSS |  | VS Code |
