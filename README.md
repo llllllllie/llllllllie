@@ -20,6 +20,18 @@
 - Git          : ██████░░░░ 50%
 - Java         : ███░░░░░░░ 30%
 
+### 📊 학습 진도
+
+<p style="font-family:monospace">
+
+Python      : ███<span style="color:#FF69B4">░░░░░░░</span> 20%<br>
+JavaScript  : <span style="color:#FF69B4">░░░░░░░░░░</span> 0%<br>
+Git         : ██████<span style="color:#FF69B4">░░░░</span> 50%<br>
+Java        : ███<span style="color:#FF69B4">░░░░░░░</span> 30%
+
+</p>
+
+
 ### 🎮 앞으로 배울 프로그램
 
 | 언어        | 프론트엔드     | 백엔드     | 협업 도구         | 개발 환경      |
