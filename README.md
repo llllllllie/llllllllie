@@ -30,9 +30,7 @@
                                                  
 
 ## 📫 연락
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyuya.dev@gmail.com)
-
-- 이메일: kimcoal08@gmai.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyuya.dev@gmail.com) - kimcoal08@gmai.com
 
 
 
