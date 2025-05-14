@@ -33,7 +33,7 @@
 
 - 이메일: kimcoal08@gmai.com
 
-  
+  https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 
 
 ![하이](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNjbDNodnV1a3IxNG0zZmFrc3B4ODA3amRmZXNmanR5MnE2bjI1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XKsRoJM6gBzqBKvNr5/giphy.gif)
