@@ -27,7 +27,7 @@
 |-------------|----------------|------------|--------------------|----------------|
 | Python      | HTML           | Git        | GitHub             | VS Code        |
 | Java        | CSS            |            |                    | Linux (기초)   |
-| JavaScript  | JavaScript     |            |                    | Terminal 사용  |
+| JavaScript  |                |            |                    | Terminal 사용  |
                                                  
 
 ## 📫 연락
